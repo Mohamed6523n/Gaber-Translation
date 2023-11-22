@@ -1,0 +1,7 @@
+httpsgithub.comStichozagoogle-translate-php
+
+
+
+
+https://github.com/JoggApp/laravel-google-translate
+composer require joggapp/laravel-google-translate
